@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TheaAH
-- 👀 I’m interested in astronomy, complex systems and  theoretical physics
-- 🌱 I’m currently learning machine learning and data science
-- 💞️ I’m looking to collaborate on physics simulations
-
+📡 PhD researcher in radio astronomy
+🔭 Working with MeerKAT/ MeerKLASS on interferometric imaging & radio surveys
+🤖 Exploring machine learning for astronomical source classification
+🌌 Interested in cosmology, large-scale structure & data-intensive astronomy
